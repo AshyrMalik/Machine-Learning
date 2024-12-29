@@ -1,4 +1,3 @@
-Here's a README for the "Binary Prediction of Mushrooms as Poisonous or Not" project:
 
 ---
 
