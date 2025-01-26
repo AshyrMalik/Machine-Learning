@@ -1,4 +1,3 @@
-Here’s a README for your "Machine Learning" GitHub repository:
 
 ---
 
@@ -25,4 +24,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify any sections as per your specific needs or add further details for individual projects.
